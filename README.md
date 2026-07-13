@@ -42,4 +42,4 @@ For granular execution scripts, network port configurations, specific router swi
 👉 **[READ THE FULL LAB PLAYBOOK ON GITBOOK](https://cyber-lightcycle.gitbook.io/f10rad3-cyber-lightcyclebase/)**
 
 ---
-*Developed by a an intuitive Aspriring Cybersecurity Professional*
+*Developed by your neighbourhood's intuitive cybernerd*
