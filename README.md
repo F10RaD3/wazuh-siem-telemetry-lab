@@ -24,7 +24,7 @@ The central security operations dashboard is hosted on a secure Linux container,
 ## 🗺️ Architectural Workflow
 1. **The Target:** Windows Endpoint generates standard security event loops (Process creations, account logons, privilege modifications).
 2. **The Pipeline:** The local Windows Wazuh Agent captures events and packages them securely.
-3. **The Tunnel:** Data passes securely through the encrypted Tailscale mesh tunnel via designated network Port `1514`.
+3. **The Tunnel:** Data passes securely through the encrypted Tailscale mesh tunnel via designated network Port `####`.
 4. **The Collector:** The central Linux Wazuh dashboard parses the telemetry, checks hashes against known threat definitions, and visualizes alerts in real-time.
 
 ---
