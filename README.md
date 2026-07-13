@@ -39,7 +39,7 @@ The central security operations dashboard is hosted on a secure Linux container,
 ## 📖 Detailed Step-by-Step Playbook
 This will include a further look into what I have actually done to complete this SIEM set-up and of course, in my own words.
 
-👉 **[READ THE FULL LAB PLAYBOOK ON GITBOOK](https://cyber-lightcycle.gitbook.io/f10rad3-cyber-lightcyclebase/)**
+👉 **[READ THE FULL VIRTUAL PLAYBOOK ON GITBOOK](https://cyber-lightcycle.gitbook.io/f10rad3-cyber-lightcyclebase/)**
 
 ---
 *Developed by your neighbourhood's intuitive cybernerd*
